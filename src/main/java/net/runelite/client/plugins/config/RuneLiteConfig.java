@@ -1,4 +1,4 @@
-package net.runelite.client.plugins.bootstrap;
+package net.runelite.client.plugins.config;
 
 import java.nio.file.Path;
 import java.nio.file.Paths;

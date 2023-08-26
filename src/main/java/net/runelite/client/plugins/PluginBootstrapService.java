@@ -1,4 +1,6 @@
-package net.runelite.client.plugins.bootstrap;
+package net.runelite.client.plugins;
+
+import net.runelite.client.plugins.config.JsonConfigUpdater;
 
 import java.io.IOException;
 

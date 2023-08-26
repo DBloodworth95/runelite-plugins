@@ -1,4 +1,4 @@
-package net.runelite.client.plugins.bootstrap;
+package net.runelite.client.plugins;
 
 import java.io.FileOutputStream;
 import java.io.IOException;

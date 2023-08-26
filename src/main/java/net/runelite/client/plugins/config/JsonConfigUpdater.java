@@ -1,4 +1,4 @@
-package net.runelite.client.plugins.bootstrap;
+package net.runelite.client.plugins.config;
 
 import org.json.JSONObject;
 import org.json.JSONTokener;

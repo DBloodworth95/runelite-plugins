@@ -1,8 +1,7 @@
 package net.runelite.client.plugins;
 
-import net.runelite.client.plugins.bootstrap.ClientConfig;
-import net.runelite.client.plugins.bootstrap.PluginBootstrapService;
-import net.runelite.client.plugins.bootstrap.RuneLiteConfig;
+import net.runelite.client.plugins.config.ClientConfig;
+import net.runelite.client.plugins.config.RuneLiteConfig;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
